@@ -1,4 +1,5 @@
-# python-restfull-flask-api
-Python restfull flask api
+# Python RESTfull Flask API #
+This is meant to be a simple yet solid restfull API made in Python and Flask. 
 
-Initial commit.
+## Installation ##
+`pip install flask flask-jsonpify flask-sqlalchemy flask-restful`
